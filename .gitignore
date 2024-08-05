@@ -1,0 +1,4 @@
+kwallet-dbus
+builddir/
+.flatpak-builder/
+repo/
